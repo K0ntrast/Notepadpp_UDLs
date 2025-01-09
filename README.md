@@ -1,2 +1,2 @@
-# Notepadpp_UDLs
-Additional User-defined languages for Notepad++
+# Notepad++ UDLs
+Additional User-defined languages for Notepad++ which you may find useful.
